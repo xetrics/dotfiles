@@ -1,0 +1,15 @@
+configuration {
+	width: 50;
+	lines: 9;
+	columns: 1;
+	font: "CascadiaCode 12";
+	show-icons: true;
+	line-margin: 10;
+	theme: "/usr/share/rofi/themes/Nordic.rasi";
+	display-window: "";
+	display-run: "";
+	display-ssh: "";
+	display-drun: "";
+	display-combi: "";
+}
+@import "/usr/share/rofi/themes/Nordic.rasi"
